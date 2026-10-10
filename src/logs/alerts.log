@@ -1,0 +1,14 @@
+
+================================================================================
+🐋 [HIGH] WHALE ALERT
+  Token     : PEPE
+  Chain     : ethereum
+  WHO       : 0xDEAD42
+  WHAT      : Whale buy detected — $500,000
+  WHY       : Wallet 0xDEAD42 executed a large buy of $500,000 on PEPE/ethereum. This exceeds the whale threshold.
+  WHEN      : 2026-08-11T11:54:43.428661+00:00
+  HOW       : Monitored on-chain wallets via whale-tracker agent. TX: 0xABC
+  CONFIDENCE: 90/100
+  URGENCY   : HIGH
+  ID        : 76c6e00c-8afb-437e-b0db-a170b7a9b0c5
+  Agents    : whale-tracker

@@ -1,0 +1,24 @@
+[
+  {
+    "alert": {
+      "id": "5484dbaa-8261-4a5c-a3dc-88bcc1e92321",
+      "alert_type": "whale",
+      "token": "PEPE",
+      "who": "",
+      "what": "Whale buy",
+      "why": "",
+      "when": "",
+      "how": "",
+      "confidence": 80,
+      "urgency": "HIGH",
+      "chain": "",
+      "created_at": "2026-08-11T13:02:03.222563+00:00",
+      "expires_at": null,
+      "source_agents": []
+    },
+    "queued_at": "2026-08-11T13:02:03.222573+00:00",
+    "dispatched": true,
+    "dispatch_attempts": 1,
+    "last_attempt_at": "2026-08-11T13:02:03.222816+00:00"
+  }
+]

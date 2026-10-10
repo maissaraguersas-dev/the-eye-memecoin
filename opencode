@@ -1,0 +1,20 @@
+#!/bin/bash
+# 🐋👁️ THE EYE — opencode launcher
+# Just type 'opencode' in the terminal to launch THE EYE
+
+PROJECT_DIR="/home/z/my-project/the-eye-memecoin"
+VENV_PYTHON="$PROJECT_DIR/.venv/bin/python"
+
+# Ensure venv exists
+if [ ! -f "$VENV_PYTHON" ]; then
+    echo "🐋👁️  Setting up THE EYE for the first time..."
+    cd "$PROJECT_DIR"
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install -e . -q
+    echo "✅ Setup complete!"
+fi
+
+# Run THE EYE
+cd "$PROJECT_DIR"
+exec "$VENV_PYTHON" "$PROJECT_DIR/main.py" "$@"

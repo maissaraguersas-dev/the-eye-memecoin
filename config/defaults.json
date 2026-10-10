@@ -1,0 +1,61 @@
+{
+  "scan": {
+    "max_tokens_per_cycle": 200,
+    "chains": ["eth", "sol", "base", "arb", "bsc"],
+    "min_liquidity_usd": 1000,
+    "min_volume_24h_usd": 500,
+    "max_age_hours": 72
+  },
+  "market_scanner": {
+    "discovery_interval_sec": 60,
+    "full_scan_interval_sec": 300,
+    "trending_tokens_limit": 50,
+    "new_tokens_limit": 100,
+    "min_market_cap_usd": 10000,
+    "max_market_cap_usd": 50000000
+  },
+  "rug_check": {
+    "threshold_low": 30,
+    "threshold_medium": 55,
+    "threshold_high": 75,
+    "dev_max_supply_pct": 30,
+    "fresh_wallet_days": 14,
+    "min_liquidity_lock_days": 30
+  },
+  "pump_scan": {
+    "volume_spike_multiplier": 3.0,
+    "price_spike_pct": 20,
+    "bot_ratio_threshold": 0.7,
+    "wash_trade_threshold": 0.4
+  },
+  "whale_watch": {
+    "min_tx_value_usd": 10000,
+    "accumulation_window_hours": 24,
+    "dump_threshold_pct": 15
+  },
+  "temporal": {
+    "rug_hour_start": 2,
+    "rug_hour_end": 5,
+    "fomo_peak_start": 18,
+    "fomo_peak_end": 22,
+    "dead_zone_start": 8,
+    "dead_zone_end": 12,
+    "golden_hour_start": 14,
+    "golden_hour_end": 16
+  },
+  "alerts": {
+    "min_confidence": 60,
+    "min_urgency": "medium",
+    "cooldown_sec": 300,
+    "max_per_hour": 20
+  },
+  "monitor": {
+    "default_interval_sec": 60,
+    "max_concurrent_scans": 5
+  },
+  "learning": {
+    "auto_update": true,
+    "feedback_weight": 0.1,
+    "min_samples_for_update": 10
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-08-11T00:00:00Z",
+  "patterns": [
+    {
+      "name": "bot_army_coordination",
+      "description": "20+ wallets created same day, funded from 1-3 sources, execute identical buy patterns",
+      "indicators": [
+        "wallet_count_gt_20_same_day",
+        "funded_from_1_to_3_sources",
+        "identical_buy_patterns",
+        "avg_wallet_age_lt_3_days"
+      ],
+      "confidence_base": 30,
+      "severity": "high"
+    },
+    {
+      "name": "wash_trading",
+      "description": "Same wallets buy and sell to each other, creating fake volume",
+      "indicators": [
+        "circular_transactions",
+        "same_wallet_buy_sell_pair",
+        "volume_inflated_2x_plus",
+        "no_real_holder_change"
+      ],
+      "confidence_base": 25,
+      "severity": "high"
+    },
+    {
+      "name": "volume_price_divergence",
+      "description": "Price up 300% but on-chain volume doesn't support it (real volume <20% of reported)",
+      "indicators": [
+        "price_up_300pct",
+        "real_volume_lt_20pct_reported",
+        "divergence_gt_2_sigma",
+        "fake_volume_ratio"
+      ],
+      "confidence_base": 20,
+      "severity": "high"
+    },
+    {
+      "name": "social_signal_manipulation",
+      "description": "50K+ Twitter mentions but 95% from bot accounts, 0 organic TikTok/Reddit",
+      "indicators": [
+        "twitter_50k_plus_mentions",
+        "bot_ratio_gt_95pct",
+        "zero_organic_tiktok",
+        "zero_organic_reddit"
+      ],
+      "confidence_base": 20,
+      "severity": "medium"
+    },
+    {
+      "name": "holder_count_inflation",
+      "description": "10K holders but 80% are bot wallets with < $1 holdings",
+      "indicators": [
+        "holders_10k_plus",
+        "bot_wallet_ratio_gt_80pct",
+        "avg_holding_lt_1_usd",
+        "no_real_engagement"
+      ],
+      "confidence_base": 10,
+      "severity": "medium"
+    },
+    {
+      "name": "influencer_paid_pump",
+      "description": "Sudden spike after influencer tweet, no on-chain accumulation phase",
+      "indicators": [
+        "influencer_tweet_precedes_pump",
+        "no_accumulation_phase",
+        "instant_volume_spike",
+        "dev_selling_during_pump"
+      ],
+      "confidence_base": 15,
+      "severity": "medium"
+    },
+    {
+      "name": "exchange_listing_fake_out",
+      "description": "Rumor of Binance listing, bots pump, dev dumps on rumor",
+      "indicators": [
+        "listing_rumor_spread",
+        "bot_pump_follows_rumor",
+        "dev_dumps_on_rumor",
+        "listing_never_happens"
+      ],
+      "confidence_base": 15,
+      "severity": "high"
+    }
+  ],
+  "scoring_weights": {
+    "wallets_created_lt_3d_gt_70pct": 30,
+    "buy_sell_ratio_80_20": 25,
+    "volume_price_divergence_gt_2sigma": 20,
+    "social_mentions_90pct_plus_bots": 20,
+    "zero_organic_tiktok_reddit": 10,
+    "known_influencer_paid": 15,
+    "dev_selling_during_pump": 20
+  },
+  "known_bot_networks": [
+    {
+      "funding_source": "0xaaaa000011112222333344445555666677778888",
+      "wallet_count": 47,
+      "avg_wallet_age_days": 3.2,
+      "first_seen": "2026-07-01T00:00:00Z",
+      "last_seen": "2026-08-10T00:00:00Z",
+      "chains": ["eth", "solana"],
+      "pattern": "coordinated_buy_wall"
+    }
+  ]
+}

@@ -1,0 +1,1102 @@
+[
+  {
+    "prediction_id": "BYND_1786457463",
+    "token_address": "7V3YBheTbMC8FSPScVzmzha87yCNguJS5Za6nAiFBocY",
+    "token_symbol": "BYND",
+    "prediction_type": "stable",
+    "predicted_at": 1786457463.3548992,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "lucipurr_1786457463",
+    "token_address": "AtCqsEoVCQKLskdmCbVBCH1ovV9wBthxmEU8VzrB9YnU",
+    "token_symbol": "lucipurr",
+    "prediction_type": "stable",
+    "predicted_at": 1786457463.3585334,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "Lucifer_1786457463",
+    "token_address": "DATUjG9MsWgTZgaLh1QdnW6i6yq82eLgc3jSWmHe1rs4",
+    "token_symbol": "Lucifer",
+    "prediction_type": "stable",
+    "predicted_at": 1786457463.360949,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "Rat_1786457463",
+    "token_address": "6nCRTihpWXPFDF1oempL3MRN9NZ1jKnaerNcKtPwwpMJ",
+    "token_symbol": "Rat",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457463.6987784,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "LAYOOO_1786457464",
+    "token_address": "8N1Fecoe5KSGSZpsMfMuwwCNVet6ZkaYdwZVPmdWWjRZ",
+    "token_symbol": "LAYOOO",
+    "prediction_type": "stable",
+    "predicted_at": 1786457464.0877244,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "Lucifer_1786457466",
+    "token_address": "GaeQWU1vFZmjJtBLonjy1GopEz65q1eCZebSL2UEVMdy",
+    "token_symbol": "Lucifer",
+    "prediction_type": "stable",
+    "predicted_at": 1786457466.1001122,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "MUFFIN_1786457466",
+    "token_address": "2PWgPxRVVLpGjkf7rV4rwtwEuJKTaHU4wERgJmZXNsYp",
+    "token_symbol": "MUFFIN",
+    "prediction_type": "stable",
+    "predicted_at": 1786457466.3450923,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "memedog_1786457466",
+    "token_address": "7eNGnDwoKFZGpezfKWk8ZdHSWehBu5AoPrMACCERRNgU",
+    "token_symbol": "memedog",
+    "prediction_type": "stable",
+    "predicted_at": 1786457466.531939,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "LAYOOO_1786457466",
+    "token_address": "2nkJngrHHh56W4LdvRVP4kEHbq92t9Gzv6cHpD6VZho8",
+    "token_symbol": "LAYOOO",
+    "prediction_type": "stable",
+    "predicted_at": 1786457466.8274734,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "BOA_1786457468",
+    "token_address": "8Eqwe7izw1cozhQCLmeJ1Csys2WznWsXsKkP8jYgWEGY",
+    "token_symbol": "BOA",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457468.770881,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 47.9
+  },
+  {
+    "prediction_id": "LOBO_1786457468",
+    "token_address": "66Zg35fEvmtXRtavNPV9fQZG7EZhwPxMrXSnFZDKBpZt",
+    "token_symbol": "LOBO",
+    "prediction_type": "stable",
+    "predicted_at": 1786457468.9353242,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "WORKING TECH_1786457469",
+    "token_address": "8w6QW8g5Kj5oB1zfXbvdfg9bw13gCuUPWiFsVwNF7vQq",
+    "token_symbol": "WORKING TECH",
+    "prediction_type": "stable",
+    "predicted_at": 1786457469.333329,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "Lucifur_1786457469",
+    "token_address": "39jcgrMxbiqGPNiPj37cD83S14mjztayAZm1YHi7fajT",
+    "token_symbol": "Lucifur",
+    "prediction_type": "stable",
+    "predicted_at": 1786457469.5227497,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "LAYOOO_1786457469",
+    "token_address": "91f9PZr25NDSw6XKkaoAhDJRHzv1eDxqn65issMavixn",
+    "token_symbol": "LAYOOO",
+    "prediction_type": "stable",
+    "predicted_at": 1786457469.618091,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "LAYOOO_1786457471",
+    "token_address": "FbxP3WZ4xx7YKK898uZAca3XMhNrV5e9SfJBZdyM2pYR",
+    "token_symbol": "LAYOOO",
+    "prediction_type": "stable",
+    "predicted_at": 1786457471.662884,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "LAYOOO_1786457471",
+    "token_address": "2rBoexv3o3GD3kMV9zrQsPL9nr3rGDLTNdCm2aqWXy1C",
+    "token_symbol": "LAYOOO",
+    "prediction_type": "stable",
+    "predicted_at": 1786457471.8975585,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "LAYOOO_1786457472",
+    "token_address": "bxennYzxT7PQeKtkwp7sR6qM6oqbNGxkq4MjfcFZrv2",
+    "token_symbol": "LAYOOO",
+    "prediction_type": "stable",
+    "predicted_at": 1786457472.2122371,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "MUFFIN_1786457472",
+    "token_address": "5ajNaCa4CoeuCzZy14B5oMfK1sxUxB6TLvRViqteR76r",
+    "token_symbol": "MUFFIN",
+    "prediction_type": "stable",
+    "predicted_at": 1786457472.5974944,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "Lucifur_1786457472",
+    "token_address": "2t3rouPhQGgZGRrjgyxUJLs4VMzDebqpgRByTYHSXRvW",
+    "token_symbol": "Lucifur",
+    "prediction_type": "stable",
+    "predicted_at": 1786457472.999795,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "Lucifer_1786457473",
+    "token_address": "8gtyh9SLx5r7tnixt36Ke67dE27mvhwRPPaQVcCtc6VG",
+    "token_symbol": "Lucifer",
+    "prediction_type": "stable",
+    "predicted_at": 1786457473.6820586,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "1KTO100M_1786457474",
+    "token_address": "0x253b4b5167341233aabf707aaf9f2c181f26334b",
+    "token_symbol": "1KTO100M",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457474.8182101,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "CPT_1786457475",
+    "token_address": "0x63b325390eda4ce9847d13a4ff591085a15e6bba",
+    "token_symbol": "CPT",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457475.6340554,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "WOJAK_1786457476",
+    "token_address": "0x91f3750c4c59613bc4363a2caebc53e4a1c1814a",
+    "token_symbol": "WOJAK",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457476.0572107,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "TOTO_1786457476",
+    "token_address": "0x96116322218aebc8407b58b1019e2d17611fcd37abc0b02c54d738416aa04013",
+    "token_symbol": "TOTO",
+    "prediction_type": "stable",
+    "predicted_at": 1786457476.4330034,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "$1_1786457476",
+    "token_address": "0x58b28d275ead663fda3c34614b32739205d4d2ee",
+    "token_symbol": "$1",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457476.6499264,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "$1_1786457477",
+    "token_address": "0xc9d3da3895787c1dc46ba88acac8b0294c4e245a",
+    "token_symbol": "$1",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457477.0467923,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "SPACEX_1786457478",
+    "token_address": "0x018a60ed5cf6c65701f9b41706caa64639b2e587",
+    "token_symbol": "SPACEX",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457478.24399,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "openhuman_1786457478",
+    "token_address": "0x4c0e9b588791ba38a5bcd18e7d8d3ac2c0a9000e",
+    "token_symbol": "openhuman",
+    "prediction_type": "stable",
+    "predicted_at": 1786457478.7877188,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "1KTO100M_1786457479",
+    "token_address": "0xf77f4900d2d81bc9179a3a7bad2d849dff0459de",
+    "token_symbol": "1KTO100M",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457479.0005326,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "BxJ_1786457479",
+    "token_address": "0x053b3e8c3d1e95dcd0fb6ba0b14d7d7010fb96c83982a7eff17699e198f09421",
+    "token_symbol": "BxJ",
+    "prediction_type": "stable",
+    "predicted_at": 1786457479.0987642,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "KEELon_1786457480",
+    "token_address": "0x8edf00d2c2781978adcada1816dbe10f36442c0f",
+    "token_symbol": "KEELon",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457480.80395,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "1KTO100M_1786457481",
+    "token_address": "0xaeaeb0befef979c59d23a54c0df1db9ab028e2f1",
+    "token_symbol": "1KTO100M",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457481.529303,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "XST_1786457481",
+    "token_address": "0xa26730c669c31de3d5de2fa583b9e7e8756a011a210472fda1ac67e6935f254f",
+    "token_symbol": "XST",
+    "prediction_type": "stable",
+    "predicted_at": 1786457481.6633112,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "GBOR_1786457481",
+    "token_address": "0x12d067113415d384f17762fd9f7f41331704f704",
+    "token_symbol": "GBOR",
+    "prediction_type": "stable",
+    "predicted_at": 1786457481.7293882,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "CAST_1786457482",
+    "token_address": "0x213aa2e9dd8f5cfe5e611949d4759982a703bfcc01f5637fbbfa29324c91aaaf",
+    "token_symbol": "CAST",
+    "prediction_type": "stable",
+    "predicted_at": 1786457482.072684,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "sami_1786457484",
+    "token_address": "0xbc7c53a396eb5ba086055f6100716a9a2f658b53b64d459f6aedb5f0e4a752d4",
+    "token_symbol": "sami",
+    "prediction_type": "stable",
+    "predicted_at": 1786457484.0621426,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "$1_1786457484",
+    "token_address": "0x37da147853274b8a27511656292f1210e1e859a1",
+    "token_symbol": "$1",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457484.4753768,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "ODG_1786457484",
+    "token_address": "0x8e40f51b1b85bb93354c9546d888e4b31dd39d58",
+    "token_symbol": "ODG",
+    "prediction_type": "stable",
+    "predicted_at": 1786457484.5630934,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "TEST_1786457484",
+    "token_address": "0xb06d65d49be8f3d256f2a6c2fdd3301f47677cb3",
+    "token_symbol": "TEST",
+    "prediction_type": "stable",
+    "predicted_at": 1786457484.8461668,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "0x78fa10_1786457486",
+    "token_address": "0x78fa10046c8c12b26d8b78f2c6f8803336c56ac8bcd40cddb7af40fa3ef312cd",
+    "token_symbol": "0x78fa10",
+    "prediction_type": "stable",
+    "predicted_at": 1786457486.661669,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "AGCC_1786457487",
+    "token_address": "0x2e54320f40a2f8d0a4b43aa79b5a17a3c1b41112",
+    "token_symbol": "AGCC",
+    "prediction_type": "stable",
+    "predicted_at": 1786457487.1184323,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "0x1e6a9c_1786457487",
+    "token_address": "0x1e6a9c07a3d5bbdc0fb6d287d412de1a275cf3d0c0f5e6cce1e806c102633e85",
+    "token_symbol": "0x1e6a9c",
+    "prediction_type": "stable",
+    "predicted_at": 1786457487.1749504,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "PNAAI_1786457487",
+    "token_address": "0xf655df92c6e5a2704d94ad4a46492b30faac9802",
+    "token_symbol": "PNAAI",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457487.3787775,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.6
+  },
+  {
+    "prediction_id": "0x10750f_1786457487",
+    "token_address": "0x10750fa07e89a7c50e544916ca903a851d8eecd4e3602ac0ba01e172bb6e7eb5",
+    "token_symbol": "0x10750f",
+    "prediction_type": "stable",
+    "predicted_at": 1786457487.7857795,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "0xc7d789_1786457488",
+    "token_address": "0xc7d789ef5a1e3223d875944e8b691d230fd2ece8d8347e9928b0a3305ea6a758",
+    "token_symbol": "0xc7d789",
+    "prediction_type": "stable",
+    "predicted_at": 1786457488.489633,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "CATE_1786457490",
+    "token_address": "0x1e8c9d5ea3c1f8adf954217f13d98c11b9c29a09",
+    "token_symbol": "CATE",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457490.3724742,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "0xdf55e2_1786457490",
+    "token_address": "0xdf55e264aa8dc7b34e582d8eee1f10635541a9c38b5bc2a8c1350e974df0fbba",
+    "token_symbol": "0xdf55e2",
+    "prediction_type": "stable",
+    "predicted_at": 1786457490.5187805,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "0x02ac3f_1786457490",
+    "token_address": "0x02ac3f860066dc944fe7ba831bcf0d911f778b9aaba1e3a0fb2b0bbd6c09d5e5",
+    "token_symbol": "0x02ac3f",
+    "prediction_type": "stable",
+    "predicted_at": 1786457490.8819132,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "0x93db12_1786457490",
+    "token_address": "0x93db122569d8a5f9d9e6bf1e6c055b8de869d8df0cf8f298b1ab81f9a2351a04",
+    "token_symbol": "0x93db12",
+    "prediction_type": "stable",
+    "predicted_at": 1786457490.9066086,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "\u9ec4\u888dBNB_1786457492",
+    "token_address": "0xfbef878ff02101c7f77fe15aecf4e02f69ff6550",
+    "token_symbol": "\u9ec4\u888dBNB",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457492.949339,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "FREEDOM_1786457493",
+    "token_address": "0xae105abe303bcca57e2600091904f0a5f30d8a22",
+    "token_symbol": "FREEDOM",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457493.2941844,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "BNX_1786457493",
+    "token_address": "0xde97b49e5f67ccbc70a19deabb374806921c4444",
+    "token_symbol": "BNX",
+    "prediction_type": "stable",
+    "predicted_at": 1786457493.4186034,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "\u9ec4\u888dBNB_1786457493",
+    "token_address": "0xa4042b147eb22ed604dac92d614d59b1cc4f948e",
+    "token_symbol": "\u9ec4\u888dBNB",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457493.7494512,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "XWU_1786457494",
+    "token_address": "0x9c32fc4a0aa35690864b92dec322b860eb9f31f2",
+    "token_symbol": "XWU",
+    "prediction_type": "stable",
+    "predicted_at": 1786457494.485045,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "AEON_1786457495",
+    "token_address": "0x18f8223cbbfb5979320d914492e2bb1de40643fb",
+    "token_symbol": "AEON",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457495.9781024,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "QQQB_1786457496",
+    "token_address": "0xde760dc4fe76a39f489ca96694099bbe52bf03fe",
+    "token_symbol": "QQQB",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457496.1152384,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "Buy N Buy_1786457496",
+    "token_address": "0xbe552ebc316f3703ed14cbcb6ed8d9ee49514444",
+    "token_symbol": "Buy N Buy",
+    "prediction_type": "stable",
+    "predicted_at": 1786457496.2955987,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "BNX_1786457496",
+    "token_address": "0x4501afea211d6f1ab56c2a8b022bb50cf6b54444",
+    "token_symbol": "BNX",
+    "prediction_type": "stable",
+    "predicted_at": 1786457496.561368,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "PANWX_1786457499",
+    "token_address": "0xe097330d4e1b57f4fb88c62d107446b3e3f2e7d1",
+    "token_symbol": "PANWX",
+    "prediction_type": "stable",
+    "predicted_at": 1786457499.1113968,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "SPYB_1786457499",
+    "token_address": "0x0b2badb547cbb694ba279c3ca0b8b678b9330081",
+    "token_symbol": "SPYB",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786457499.143795,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "0xd7a119_1786457499",
+    "token_address": "0xd7a1196ef27133bbf03adde5915b608b153dc4268ae0dd6d79c23e1433c132b0",
+    "token_symbol": "0xd7a119",
+    "prediction_type": "stable",
+    "predicted_at": 1786457499.2986407,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "PPP_1786457499",
+    "token_address": "0x08b4a8f3351234ed3e7a6cfa6265bafd9a5181dd",
+    "token_symbol": "PPP",
+    "prediction_type": "volatile",
+    "predicted_at": 1786457499.5291917,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "BNX_1786457499",
+    "token_address": "0x68f9ff0063f0df0aaf410d6f881e66e07f7a0bc9",
+    "token_symbol": "BNX",
+    "prediction_type": "stable",
+    "predicted_at": 1786457499.5391216,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "NINJ_1786457501",
+    "token_address": "0x4efa64b970129bf32788e3d313d26ffb4e6f80d1",
+    "token_symbol": "NINJ",
+    "prediction_type": "stable",
+    "predicted_at": 1786457501.7380564,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "200_1786457501",
+    "token_address": "0xf52b51e3baa09b91e6f815a4e20a48368b3e4444",
+    "token_symbol": "200",
+    "prediction_type": "stable",
+    "predicted_at": 1786457501.9732597,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "KO_1786457502",
+    "token_address": "0x41b488f38a362b8decbafd121aea3dfed33a08da",
+    "token_symbol": "KO",
+    "prediction_type": "stable",
+    "predicted_at": 1786457502.0048513,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "WETH_1786461149",
+    "token_address": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+    "token_symbol": "WETH",
+    "prediction_type": "stable",
+    "predicted_at": 1786461149.1651354,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "ASTEROID_1786461149",
+    "token_address": "0xf280b16ef293d8e534e370794ef26bf312694126",
+    "token_symbol": "ASTEROID",
+    "prediction_type": "stable",
+    "predicted_at": 1786461149.1670775,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "FWA_1786461149",
+    "token_address": "0xa0df17b5ac76ababa36e1450e2cbcd18a620c845",
+    "token_symbol": "FWA",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461149.2952094,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 49.0
+  },
+  {
+    "prediction_id": "HEX_1786461149",
+    "token_address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39",
+    "token_symbol": "HEX",
+    "prediction_type": "stable",
+    "predicted_at": 1786461149.722755,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "MANYU_1786461150",
+    "token_address": "0x95af4af910c28e8ece4512bfe46f1f33687424ce",
+    "token_symbol": "MANYU",
+    "prediction_type": "stable",
+    "predicted_at": 1786461150.1018481,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "V4_1786461151",
+    "token_address": "0x7987f03462200b3d8a072e02c89a8a41dcb124ee",
+    "token_symbol": "V4",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461151.9058137,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 47.5
+  },
+  {
+    "prediction_id": "SPX_1786461152",
+    "token_address": "0xe0f63a424a4439cbe457d80e4f4b51ad25b2c56c",
+    "token_symbol": "SPX",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461152.1020522,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 46.5
+  },
+  {
+    "prediction_id": "PEPE_1786461152",
+    "token_address": "0x6982508145454ce325ddbe47a25d4ec3d2311933",
+    "token_symbol": "PEPE",
+    "prediction_type": "stable",
+    "predicted_at": 1786461152.4275506,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "WBTC_1786461152",
+    "token_address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+    "token_symbol": "WBTC",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461152.8322496,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 49.0
+  },
+  {
+    "prediction_id": "UNI_1786461153",
+    "token_address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984",
+    "token_symbol": "UNI",
+    "prediction_type": "stable",
+    "predicted_at": 1786461153.2327652,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "LINK_1786461153",
+    "token_address": "0x514910771af9ca656af840dff83e8264ecf986ca",
+    "token_symbol": "LINK",
+    "prediction_type": "stable",
+    "predicted_at": 1786461153.833492,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "USDC_1786461154",
+    "token_address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48",
+    "token_symbol": "USDC",
+    "prediction_type": "stable",
+    "predicted_at": 1786461154.7679856,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "01_1786461155",
+    "token_address": "0x32708538a107253b51a735a724330a23106ca4ca",
+    "token_symbol": "01",
+    "prediction_type": "stable",
+    "predicted_at": 1786461155.0048223,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "uPEG_1786461155",
+    "token_address": "0x44b28991b167582f18ba0259e0173176ca125505",
+    "token_symbol": "uPEG",
+    "prediction_type": "stable",
+    "predicted_at": 1786461155.363841,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "LIT_1786461155",
+    "token_address": "0x232ce3bd40fcd6f80f3d55a522d03f25df784ee2",
+    "token_symbol": "LIT",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461155.5054436,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 49.0
+  },
+  {
+    "prediction_id": "ONDO_1786461155",
+    "token_address": "0xfaba6f8e4a5e8ab82f62fe7c39859fa577269be3",
+    "token_symbol": "ONDO",
+    "prediction_type": "stable",
+    "predicted_at": 1786461155.853974,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "RAD_1786461156",
+    "token_address": "0x31c8eacbffdd875c74b94b077895bd78cf1e64a3",
+    "token_symbol": "RAD",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461156.7440262,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 49.0
+  },
+  {
+    "prediction_id": "EMT_1786461157",
+    "token_address": "0xeb7a9ad524ca0bcad732e971339990d112c2002c",
+    "token_symbol": "EMT",
+    "prediction_type": "volatile",
+    "predicted_at": 1786461157.2433496,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "USDT_1786461157",
+    "token_address": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "token_symbol": "USDT",
+    "prediction_type": "stable",
+    "predicted_at": 1786461157.6347723,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "REX_1786461157",
+    "token_address": "0x80d29242e421567af5f64d2d6ffe8ccc43c5e38c",
+    "token_symbol": "REX",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461157.6868875,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 44.8
+  },
+  {
+    "prediction_id": "GRAVITY_1786461158",
+    "token_address": "0x68584c195205430ba315437f051a810dc047473d",
+    "token_symbol": "GRAVITY",
+    "prediction_type": "volatile",
+    "predicted_at": 1786461158.631618,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "uSHIP_1786461159",
+    "token_address": "0x3e3dc4b0f5b4b73625372d6a981f9ed5a6a8067e",
+    "token_symbol": "uSHIP",
+    "prediction_type": "volatile",
+    "predicted_at": 1786461159.4913466,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "GUND_1786461159",
+    "token_address": "0x8320c060a617526ac6a967aa7aa8609b3d018fbb",
+    "token_symbol": "GUND",
+    "prediction_type": "stable",
+    "predicted_at": 1786461159.836023,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "Gund_1786461160",
+    "token_address": "0x14ae1556a55c2cb5f3bf0dbfee0bd02acb8ea9f6",
+    "token_symbol": "Gund",
+    "prediction_type": "stable",
+    "predicted_at": 1786461160.2254968,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "Gund_1786461160",
+    "token_address": "0x3cba66d5f1336b8c1a318147fa8e44017247eb10",
+    "token_symbol": "Gund",
+    "prediction_type": "stable",
+    "predicted_at": 1786461160.4439273,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "GRVT_1786461161",
+    "token_address": "0xad29f2723fcdbcf665f210f25e06f97477e417cf",
+    "token_symbol": "GRVT",
+    "prediction_type": "stable",
+    "predicted_at": 1786461161.223747,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "ROBOTAXI_1786461162",
+    "token_address": "0x12f6e4e8928d7000ab0cbd8c706b10afca1e5796",
+    "token_symbol": "ROBOTAXI",
+    "prediction_type": "stable",
+    "predicted_at": 1786461162.2371702,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "SIGIL_1786461162",
+    "token_address": "0x33c3c26a2e1306c11cf7854935d9aa8d1c28403c",
+    "token_symbol": "SIGIL",
+    "prediction_type": "stable",
+    "predicted_at": 1786461162.4601026,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "PYUSD_1786461162",
+    "token_address": "0x6c3ea9036406852006290770bedfcaba0e23a0e8",
+    "token_symbol": "PYUSD",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461162.8232486,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 49.0
+  },
+  {
+    "prediction_id": "KEP_1786461163",
+    "token_address": "0xe9c4fb95ddfed180fc40ac424f07368be2ab3cd8",
+    "token_symbol": "KEP",
+    "prediction_type": "volatile",
+    "predicted_at": 1786461163.1162255,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "verify_1786461163",
+    "token_address": "0xdcc521a6c372986848092410db47db540c21ea89",
+    "token_symbol": "verify",
+    "prediction_type": "stable",
+    "predicted_at": 1786461163.3200693,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "LUNA_1786461164",
+    "token_address": "0xac4cde21a3e2b47613972f263f7162f52c442bb3",
+    "token_symbol": "LUNA",
+    "prediction_type": "stable",
+    "predicted_at": 1786461164.0746622,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "EBULL_1786461165",
+    "token_address": "0xac0e69bf982ccd37723f5066efeb7f0fb9b11648",
+    "token_symbol": "EBULL",
+    "prediction_type": "volatile",
+    "predicted_at": 1786461165.1458142,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 45
+  },
+  {
+    "prediction_id": "EBULL_1786461165",
+    "token_address": "0x25958690193db03864574b1f624c004449d2e5c9",
+    "token_symbol": "EBULL",
+    "prediction_type": "stable",
+    "predicted_at": 1786461165.4267368,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "$ghosti_1786461165",
+    "token_address": "K3kpBCjX7UJgt7i9LUPRuJ665To4KFUrNyMQRN4pump",
+    "token_symbol": "$ghosti",
+    "prediction_type": "stable",
+    "predicted_at": 1786461165.9515069,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "TOAD_1786461166",
+    "token_address": "A13oRB9FFaiUjfi6LdCg6p9ka1u8SfGkUFs4SKvPpump",
+    "token_symbol": "TOAD",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461166.1479049,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 49.0
+  },
+  {
+    "prediction_id": "TOTO_1786461166",
+    "token_address": "5GgkUst9YjkEfqJQ7TTqWvPtoswUdbboYTy189Yhpump",
+    "token_symbol": "TOTO",
+    "prediction_type": "stable",
+    "predicted_at": 1786461166.3378205,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "CATE_1786461167",
+    "token_address": "Ai66LHZG9MCzg1WKdawwqduVAXpNDUuV8M3uyq5ppump",
+    "token_symbol": "CATE",
+    "prediction_type": "stable",
+    "predicted_at": 1786461167.0224407,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "ANSEM_1786461168",
+    "token_address": "9cRCn9rGT8V2imeM2BaKs13yhMEais3ruM3rPvTGpump",
+    "token_symbol": "ANSEM",
+    "prediction_type": "stable",
+    "predicted_at": 1786461168.4337006,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "ALON_1786461168",
+    "token_address": "8XtRWb4uAAJFMP4QQhoYYCWR6XXb7ybcCdiqPwz9s5WS",
+    "token_symbol": "ALON",
+    "prediction_type": "stable",
+    "predicted_at": 1786461168.8607695,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "BULLWHALE_1786461168",
+    "token_address": "B4G24zZRUjZcuu4d5QTLpGFcaptXUUNmrLL4VBEmpump",
+    "token_symbol": "BULLWHALE",
+    "prediction_type": "stable",
+    "predicted_at": 1786461168.8725827,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "XST_1786461169",
+    "token_address": "XSTuo1fV7HHMhs4BYiwtrWSLsMCJNrooH2AssWTYZqP",
+    "token_symbol": "XST",
+    "prediction_type": "stable",
+    "predicted_at": 1786461169.2666574,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  },
+  {
+    "prediction_id": "Remus_1786461169",
+    "token_address": "23e4CNuJxvBQ7RjNLc8Bh3yN3pQq6jeiTbyzJGXYPgme",
+    "token_symbol": "Remus",
+    "prediction_type": "dump_coming",
+    "predicted_at": 1786461169.5333474,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 49.0
+  },
+  {
+    "prediction_id": "MANLET_1786461171",
+    "token_address": "HxQhDGYqyjorgogMJx7YbBHADEDxuHhLnMMmr6VYpyn",
+    "token_symbol": "MANLET",
+    "prediction_type": "stable",
+    "predicted_at": 1786461171.3314264,
+    "outcome": "pending",
+    "outcome_at": 0.0,
+    "confidence": 30.0
+  }
+]

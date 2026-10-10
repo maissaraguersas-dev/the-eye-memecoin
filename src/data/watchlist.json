@@ -1,0 +1,12 @@
+[
+  {
+    "token": "PEPE",
+    "address": "0x6982508159220719284f3a0",
+    "chain": "eth",
+    "added_at": "2026-08-11T12:58:47.743668+00:00",
+    "added_reason": "CLI add-watchlist",
+    "scan_interval_minutes": 15,
+    "last_scanned_at": null,
+    "alert_count": 0
+  }
+]

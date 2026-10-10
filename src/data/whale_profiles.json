@@ -1,0 +1,15 @@
+{
+  "0x4a2b8c1d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b": {
+    "chain": "eth",
+    "patterns": [],
+    "total_buy_usd": 0.0,
+    "total_sell_usd": 0.0,
+    "buy_count": 0,
+    "sell_count": 0,
+    "avg_hold_time_hours": 0.0,
+    "success_rate": 0.0,
+    "last_active": 0.0,
+    "confidence": 0.0,
+    "notes": ""
+  }
+}

@@ -1,0 +1,26 @@
+# ═══════════════════════════════════════════════════════════════════════════
+# THE EYE — Memecoin Pattern Recognition System
+# Crontab entries for 24/7 monitoring
+#
+# Install: cd /home/z/my-project/the-eye-memecoin && bash scripts/setup-24-7.sh
+# Or manually: (crontab -l 2>/dev/null; cat cron/the-eye-cron) | crontab -
+# Remove all: crontab -r
+# View: crontab -l
+# ═══════════════════════════════════════════════════════════════════════════
+
+PROJECT_DIR=/home/z/my-project/the-eye-memecoin
+
+# Blockchain scan — every 5 minutes (whale movements, new tokens)
+*/5 * * * * $PROJECT_DIR/cron/blockchain-scan.sh >/dev/null 2>&1
+
+# Social scan — every 10 minutes (Twitter, Reddit sentiment)
+*/10 * * * * $PROJECT_DIR/cron/social-scan.sh >/dev/null 2>&1
+
+# Market scan — every 15 minutes (full market-wide analysis)
+*/15 * * * * $PROJECT_DIR/cron/market-scan.sh >/dev/null 2>&1
+
+# Temporal scan — every 30 minutes (danger windows, time-of-day risk)
+*/30 * * * * $PROJECT_DIR/cron/temporal-scan.sh >/dev/null 2>&1
+
+# Alert dispatch — every 60 minutes (flush queued alerts to Telegram/Discord)
+0 * * * * $PROJECT_DIR/cron/alert-dispatch.sh >/dev/null 2>&1

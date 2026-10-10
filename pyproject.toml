@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "the-eye-memecoin"
+version = "1.0.0"
+description = "🐋👁️ THE EYE — Memecoin Market Intelligence Engine. Monitors the ENTIRE market, not your portfolio."
+readme = "README.md"
+license = {text = "MIT"}
+requires-python = ">=3.10"
+authors = [{name = "THE EYE Team"}]
+
+dependencies = [
+    "aiohttp>=3.9.0",
+    "aiofiles>=23.0",
+]
+
+[project.scripts]
+opencode = "main:main"
+
+[tool.setuptools]
+py-modules = ["main"]
+packages = [
+    "src", "src.monitors", "src.pattern", "src.analysis",
+    "src.alerts", "src.scanner", "src.data", "config"
+]
+
+[tool.setuptools.package-data]
+config = ["*.json"]
+"src.data" = ["*.json"]
